@@ -1,0 +1,3 @@
+Repository: mungnyang-privacy
+Expected URL: https://aikian.github.io/mungnyang-privacy/
+Status: repository files published; GitHub Pages enablement verification pending
